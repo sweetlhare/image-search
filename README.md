@@ -1,3 +1,5 @@
+> **In English:** An image classification and similar-image search system combining ConvNeXt (visual features) and Qwen2-VL (semantic understanding), with a FastAPI backend and an interactive web UI for upload, similarity matching, recommendations and analytics. *(Full description in Russian below.)*
+
 # Система классификации изображений
 
 ## Обзор
